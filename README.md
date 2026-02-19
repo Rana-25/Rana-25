@@ -8,7 +8,7 @@
 <p align="center">
 Computer Science & Engineering Student 💻  
 <br/>
-Passionate about Software Engineering & Web Development 💖
+Passionate about Software Engineering & Web Development 
 </p>
 
 ---
@@ -26,13 +26,13 @@ Earthquake monitoring web app with live monitor, AI analyst, and alerts.
 
 ---
 
-### 🎀 Tech Stack
+###  Tech Stack
 
 Python • HTML • CSS • Java • React • Git  
 
 ---
 
-### 📬 Let’s Connect
+###  Let’s Connect
   
 📧 Email: elmachtoubrana@gmail.com  
 
