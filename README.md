@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Computer Science & Engineering Student 💻  
+Computer Science & Engineering Student  
 <br/>
 Passionate about Software Engineering & Web Development
 </p>
@@ -25,7 +25,7 @@ Python • HTML • CSS • Java • React • Git
 
 I’m always excited to keep learning, building, and improving — both as a developer and as a problem solver.
 
-If you’d like to connect or collaborate, feel free to reach out anytime 💌  
+If you’d like to connect or collaborate, feel free to reach out anytime   
 📧 **elmachtoubrana@gmail.com**
 
 <p align="center">
