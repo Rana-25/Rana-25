@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I’m Rana ✨</h1>
 
 <p align="center">
+  <img src="./banner.gif" alt="banner" />
+</p>
+
+
+<p align="center">
 Computer Science & Engineering Student 💻  
 <br/>
 Passionate about Software Engineering & Web Development 💖
