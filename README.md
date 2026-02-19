@@ -26,13 +26,6 @@ Earthquake monitoring web app with live monitor, AI analyst, and alerts.
 
 ---
 
-### 🌟 Open Source
-
-✨ Contributor to **freeCodeCamp**  
-💬 Always excited to collaborate and learn from the developer community
-
----
-
 ### 🎀 Tech Stack
 
 Python • HTML • CSS • Java • React • Git  
