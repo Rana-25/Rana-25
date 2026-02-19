@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Rana ✨</h1>
 
-<!--
-**Rana-25/Rana-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science & Engineering Student 💻  
+<br/>
+Passionate about Software Engineering & Web Development 💖
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌷 About Me
+I’m a CSE student who loves building clean, creative, and meaningful software.  
+I enjoy web development, learning new technologies, and contributing to open-source projects.
+
+---
+
+###  Projects I’m Working On
+
+**Quavely**
+Earthquake monitoring web app with live monitor, AI analyst, and alerts.
+
+---
+
+### 🌟 Open Source
+
+✨ Contributor to **freeCodeCamp**  
+💬 Always excited to collaborate and learn from the developer community
+
+---
+
+### 🎀 Tech Stack
+
+Python • HTML • CSS • Java • React • Git  
+
+---
+
+### 📬 Let’s Connect
+  
+📧 Email: elmachtoubrana@gmail.com  
+
+---
+
+<p align="center">
+🌸 Always learning, building, and growing 🌸
+</p>
+
