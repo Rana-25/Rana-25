@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,100:1e3a8a&section=header&text=Rana%20El%20Machtoub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:0EA5A4,100:7C3AED&section=header&text=Rana%20El%20Machtoub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 
 <p align="center">
