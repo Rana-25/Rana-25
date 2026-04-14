@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://quavely.netlify.app">Quavely</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:elmachtoubrana@gmail.com">Email</a>
 </p>
 
 ---
@@ -18,17 +17,6 @@
 I am a first-year **Computer Science and Engineering** student at **AUB Mediterraneo** with a strong interest in **software development, analytical problem solving, and building technology with real-world impact**. I enjoy combining structured thinking with practical development, and I am especially motivated by projects that turn data into accessible and useful tools.
 
 Alongside my academic journey, I am actively involved in university life as the **Secretary of the Robotics Club** and a **Member at Large at the Programming Club**, where I continue to strengthen my leadership, teamwork, and communication skills.
-
----
-
-## Highlights
-
-- First-year **Computer Science and Engineering** student at **AUB Mediterraneo**
-- On the **Dean’s Honor List**
-- **Secretary** of the **Robotics Club**
-- **Member at Large** at the **Programming Club**
-- Experience with **Python**, **Java**, and **React**
-- Co-engineered **Quavely**, a web app for earthquake exploration and analysis
 
 ---
 
