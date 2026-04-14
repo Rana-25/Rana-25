@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,100:1e3a8a&section=header&text=Rana%20El%20Machtoub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<p align="center">
-  <img src="assets/aub.png" alt="AUB Mediterraneo Logo" width="90"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2200&color=1E3A8A&center=true&vCenter=true&width=900&lines=First-year+Computer+Science+and+Engineering+Student+at+AUB+Mediterraneo;Dean%E2%80%99s+Honor+List+%7C+GPA+4.2;Secretary+of+the+Robotics+Club+%7C+Member+at+Large+at+the+Programming+Club;Building+with+Python%2C+Java%2C+and+React" alt="Typing SVG" />
