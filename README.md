@@ -100,4 +100,4 @@ Alongside my academic journey, I am actively involved in university life as the 
 ## Connect With Me
 
 - **Email:** elmachtoubrana@gmail.com
-<img width="100%" src="https://capsule-render.vercel.app/api?
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:0EA5A4,100:7C3AED&section=footer" />
