@@ -43,9 +43,6 @@ Alongside my academic journey, I am actively involved in university life as the 
 
 ## Featured Project
 
-<p align="left">
-  <img src="assets/quavely.png" alt="Quavely Logo" width="70"/>
-</p>
 
 ### Quavely
 
