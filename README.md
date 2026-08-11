@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://quavely.netlify.app">Quavely</a> •
+  <a href="https://www.linkedin.com/in/rana-el-machtoub-11650b403?utm_source=share_via&utm_content=profile&utm_medium=member_ios">LinkedIn</a> •
   <a href="mailto:elmachtoubrana@gmail.com">Email</a>
 </p>
 
@@ -97,4 +98,5 @@ Alongside my academic journey, I am actively involved in university life as the 
 ## Connect With Me
 
 - **Email:** elmachtoubrana@gmail.com
+- **LinkedIn:** Rana El Machtoub
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:0EA5A4,100:7C3AED&section=footer" />
